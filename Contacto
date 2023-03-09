@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Las mejores fotos</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <nav> <!--Barra de navegacion Inicio-->
+
+
+		<h1>
+			<a href="/">PhotoStudio</a></h1>
+
+		<div>
+
+		<a href="blog.html">Blog</a>
+		<a href="nosotros.html">Nosotros</a>
+	    <a href="contacto.html">Contacto</a>
+
+		</div>
+	
+
+	</nav> <!--Barra de navegacion Fin-->
+    <h1>Las mejores fotos</h1>
+
+<div class="entry">
+
+	<img src="img/cenote.jpg" alt="cenote">
+	<p>
+		«Tomar fotos es saborear la vida intensamente, cada centésima de segundo.» ― Marc Riboud 	</p>
+	<img src="img/gorilla.jpg" alt="gorila">
+	<p>
+		«La cámara es un instrumento que enseña a la gente cómo ver sin cámara.» ― Dorothea Lange	</p>
+	<img src="img/ciudad.jpg" alt="ciudad">
+	<p>
+		«Tus primeras 10.000 fotografías son tus peores fotografías.» ― Henri Cartier-Bresson	</p>
+	<img src="img/cocodrilo.jpg" alt="cocodrilo">
+	<p>
+		«Cuando la gente mira mis fotos quiero que sientan como cuando quieren leer un verso de un poema una segunda vez.» ― Robert Frank	</p>
+	<img src="img/bosque.jpg" alt="bosque">
+	<p>
+		«Consultar las reglas de composición antes de tomar fotos es un poco como consultar las reglas de la gravedad antes de salir a dar un paseo.» ― Edward Weston	</p>
+	<img src="img/rio.jpeg" alt="rio">
+	<p>
+		«La fotografía ayuda a la gente a ver.» ― Berenice Abbott	</p>
+
+
+	<div class="blog-txt"></div>
+
+</div>
+</body>
+</html>
