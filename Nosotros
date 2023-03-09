@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+		
+			<title>Nosotros</title>
+			<link rel="stylesheet" href="css/style.css">
+
+		</head>
+		<body>
+			<nav> <!--Barra de navegacion Inicio-->
+
+
+				<h1>
+					<a href="/">PhotoStudio</a></h1>
+
+				<div>
+
+				<a href="blog.html">Blog</a>
+				<a href="nosotros.html">Nosotros</a>
+				<a href="contacto.html">Contacto</a>
+
+				</div>
+			
+
+			</nav> <!--Barra de navegacion Fin-->
+			<h1> Sobre Nosotros</h1>
+
+			<div class="double-column">
+				<div class="about-img">
+					<img src="img/paisaje1.jpg" alt="paisaje1">
+					
+				</div>
+				<div class="about-txt">
+					<p>
+						PhotoStudio es una empresa online dedicada a la ayuda de tomas fotográficas. Centrándose desde sus comienzos en el año 2009, principalmente en accesorios para flash y video para aficionados y profesionales.
+						La intención es ofrecer unos productos con una calidad / precio únicos en el mercado. Más del 90% de los productos que se ofrecen han sido probados en el estudio / campo para probar su eficacia, facilidad de transporte.					</p>
+				</div>
+			</div>
+			<p class="about-txt">
+				El objetivo es dar un asesoramiento personalizado de alto grado gracias los conocimientos profesionales del equipo que forma PhotoStudio.
+				Gracias a la información proporcionada previa compra, la rápidez de lo envios y las devoluciones garantizadas en los plazos correspondientes podemos garantizar un cien por cien la satisfacción del cliente.
+				Si deseas más información sobre cualquiera de los accesorios que disponemos o no lo ves disponible ponte en contacto con nosotros. Estamos abiertos a escuchar tus necesidades y poder resolverlas.
+				Equipo PhotoStudio a tu servicio.
+			</p>
+
+		</body>
+</html>
