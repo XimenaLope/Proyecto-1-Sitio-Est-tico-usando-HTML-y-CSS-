@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>¿Cómo tomar las mejores fotografías a la naturaleza?</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <nav> <!--Barra de navegacion Inicio-->
+
+
+		<h1>
+			<a href="/">PhotoStudio</a></h1>
+
+		<div>
+
+		<a href="blog.html">Blog</a>
+		<a href="nosotros.html">Nosotros</a>
+	    <a href="contacto.html">Contacto</a>
+
+		</div>
+	
+
+	</nav> <!--Barra de navegacion Fin-->
+    <h1>¿Cómo tomar las mejores fotografías a la naturaleza?</h1>
+
+<div class="entry">
+
+	<img src="img/montain2.avif" alt="montaña2">
+
+	<div class="blog-txt"></div>
+
+		<p>
+			1. Llevar un equipo adecuado
+		</p>
+
+		<p>
+			El mercado ofrece una gran variedad de cámaras con buenas relaciones calidad-precio de tipo réflex, o híbridas, que combinan los elementos de una compacta y una réflex. Otros elementos recomendables son: un trípode, para conseguir mejores tomas de paisajes; filtros para proteger el objetivo o bien para diferentes efectos de luminosidad; un disparador remoto para evitar vibraciones en la cámara; o un equipo de GPS o geoposicionamiento para ubicar, buscar o reencontrar los lugares idóneos de las fotos.		
+		</p>
+
+		<img src="img/nieve.jpg" alt="nieve">
+
+		<p>
+
+			2. Buscar diferentes puntos de vista		</p>
+
+		<p>
+			Además de la típica toma de pie a la altura de los ojos, es recomendable buscar otros puntos de vista. Desde el suelo o en algún lugar elevado, el resultado ofrecerá diferentes sensaciones. También es importante asegurarse de que el horizonte está bien nivelado.		
+		</p>
+		<img src="img/glaciar.jpg" alt="glaciar">
+
+		<p>
+			3. Tener paciencia y constancia		</p>
+
+		<p>
+			La naturaleza no posa a nuestro antojo, así que hay que armarse de mucha paciencia. Pueden pasar horas, días, hasta que se dé con el momento idóneo del paisaje o el ser vivo que se quería retratar. Y puede que en más de una ocasión no se logre y, por ello, habrá que perseverar hasta conseguirlo. Pero también puede pasar que la naturaleza nos sorprenda y obtengamos un regalo inesperado en forma de fotografía única.
+		</p>
+		    <img src="img/fotografo.jpg" alt="fotografo">
+
+</div>
+</body>
+</html>
