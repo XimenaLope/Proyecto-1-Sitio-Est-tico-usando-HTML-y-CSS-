@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Blog</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <nav> <!--Barra de navegacion Inicio-->
+
+
+		<h1>
+			<a href="/">PhotoStudio</a></h1>
+		<div>
+
+		<a href="blog.html">Blog</a>
+		<a href="nosotros.html">Nosotros</a>
+	    <a href="contacto.html">Contacto</a>
+
+		</div>
+
+	</nav> <!--Barra de navegacion Fin-->
+
+    <div class="Container with-aside">
+
+            <div class="blog">
+
+                <h1>Blog</h1> 
+
+                <img src="img/APA_0002 (4).jpg" alt="La malinche">
+
+                <h3>¿Qué hacemos en este blog?</h3>
+
+                <div class="blog-txt">
+
+                    <p>
+                        En este sitio, encontrarás artículos sobre fotografía de todo tipo, y lo más importante: artículos actualizados, con un buen contenido de calidad y muy amenos.
+
+Si te gusta la fotografía, seguro que en algún momento has aterrizado o aterrizarás en este blog. Es muy completo. Cuenta con información sobre técnicas, poses, etc. También incluye trucos y consejos para realizar cualquier idea que hayas tenido con la cámara.
+                    </p>
+                    <p>
+                        PhotoStudio es uno de los blogs de fotografía fundamentales para los fotógrafos principiantes ya que aclara todo tipo de dudas tanto con el equipo.
+
+                        También es un recurso increíble para fotógrafos más veteranos ya siempre ofrece ideas y trucos nuevos, comparativas y otros post de fotografía actuales con los que estar al día, probar técnicas nuevas o equipos innovadores para lograr resultados diferentes.                    </p>
+
+                </div>
+                    
+               
+
+            </div>
+
+            <aside class="entrys"> 
+            
+                <h2>Nuestras Entradas</h2>
+
+                <div class="card">
+
+                    <img src="img/APA_1021.jpg" alt="mar">
+                    <h4><a href= "entrada1.html">¿Cómo tomar fotograías con poca luz?</a></h4>
+                </div>
+
+                <div class="card">
+                    <img src="img/montain.avif" alt="montaña">
+                    <h4><a href= "entrada2.html">¿Cómo tomar las mejores fotografías a la naturaleza?</a></h4>
+                </div>
+
+                <div class="card">
+                    <img src="img/pinguinos.jpg" alt="pinguinos">
+                    <h4><a href= "entrada3.html">Las mejores fotos</a></h4>
+                </div>
+
+                
+            </aside>
+
+        </div> <!-- .container -->
+
+    </body>
+</html>
