@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>¿Cómo tomar fotografias con poca luz?</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <nav> <!--Barra de navegacion Inicio-->
+
+
+		<h1>
+			<a href="/">PhotoStudio</a></h1>
+
+		<div>
+
+		<a href="blog.html">Blog</a>
+		<a href="nosotros.html">Nosotros</a>
+	    <a href="contacto.html">Contacto</a>
+
+		</div>
+	
+
+	</nav> <!--Barra de navegacion Fin-->
+    <h1>¿Cómo tomar fotografias con poca luz?</h1>
+
+<div class="entry">
+
+	<img src="img/_DSC0020.jpg" alt="Negris">
+
+	<div class="blog-txt"></div>
+
+		<p>
+			La luz es clave para la fotografía, como seguro ya sabrás.  Por eso, cuando la luz escasea la posibilidad de hacer buenas fotografías se desvanece. Hoy vamos a contaros todos los recursos que podéis utilizar para lograr conseguir esa luz tan necesaria para poder realizar la fotografía:
+		</p>
+
+		<p>
+            1. Utiliza objetivos luminosos
+		</p>
+
+		<p>
+			Realizar fotografías con un objetivo luminoso es una de las opciones más sencillas y básicas para iluminar. Parece evidente pero a veces puede olvidarse a la hora de comprar un objetivo. Recuerda que cuanto más pequeño sea el  número «f» mayor será la apertura, y por lo tanto más luminoso será el objetivo. Por ejemplo, un objetivo con una apertura f 1.8 se considera muy luminoso, y desde luego mucho mayor que un f 8.
+
+		</p>
+
+		<img src="img/lente.jpg" alt="Negris">
+
+		<p>
+            2. Utiliza velocidades de obturación lentas
+		</p>
+
+		<p>
+			Para poder hacer esto necesitarás como mínimo activar el estabilizador de imagen y siempre que puedas, el trípode. Por un lado, cuanto más tiempo dejes el obturador abierto, más luz entrará en el sensor. Por otro lado, todo lo que esté en movimiento aparecerá borroso. Un buen truco para saber la velocidad de obturación con la que podemos empezar a trabajar es la de dividir por la distancia focal de tu lente. Es decir, si tu lente es de 100mm, utiliza una velocidad de 1/100, si es de 20, 1/20 y si es de 500mm prueba con 1/500.		
+		</p>
+
+		<img src="img/city.jpg" alt="Ciudad">
+
+		<p>
+			3. Utiliza reflectores
+		</p>
+
+		<p>
+			Llevar un reflector contigo, especialmente en fotografía de retrato es fundamental cuando sales del estudio.
+            Son una pequeña ayuda que pueden salvarte la fotografía en numerosas ocasiones.		</p>
+
+		<img src="img/reflectores.jpg" alt="Reflectores">
+
+		<p>
+			4. Fotografía en RAW con poca luz		</p>
+
+		<p>
+			Si quieres hacer fotografías con poca luz o tienes unas condiciones difíciles, elige el formato Raw para realizar tus fotografías. Parece algo obvio, pero a veces se nos olvida.
+			El formato Raw te permitirá trabajar todos los parámetros de forma independiente con los mejores resultados.
+			Lo que sucede en la mayoría de las fotografías oscuras es que si las iluminamos en edición nos encontramos con el ruido o la pérdida de detalles. Así que la clave está en reducir el nivel de ruido sin reducir los detalles.		</p>
+
+		<img src="img/bailarina.jpg" alt="Bailarina">
+
+
+</div>
+</body>
+</html>
